@@ -8,3 +8,4 @@ PISA 2012 dataset.
 
 - The write up is presented in pdf format.
 - Feedbacks have been collected and have been worked on.
+- Best viewed on a PC or a laptop, with full screen presentation mode.
